@@ -1,0 +1,9 @@
+npm i prompt-sync == importing prompt
+
+// 1. deposite some money
+// 2. Determine number of lines to bet on
+// 3. collect a bet amount
+// 4. SPin the slot machine
+// 5. check if the user won
+// 6. give the user their winnings
+// 7. play again 
